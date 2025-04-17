@@ -1,0 +1,1 @@
+This system is an online car marketplace where vendors can list vehicles for sale or rent, and customers can browse, buy, rent, and leave reviews. It includes features like secure payments, invoicing, location-based rentals, and user authentication, all managed efficiently using SQL.
